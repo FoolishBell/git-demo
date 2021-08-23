@@ -13,4 +13,4 @@ Hello Git ! Hello Gay !
 Hello Git ! Hello Gay !
 Hello Git ! Hello Gay !
 Hello Git ! Hello Gay ! master test
-Hello Git ! Hello Gay !
+Hello Git ! Hello Gay ! hot-fix test
